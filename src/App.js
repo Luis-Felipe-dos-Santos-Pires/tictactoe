@@ -19,7 +19,7 @@ export default function Board() {
     setSquares(nextSquares);
     setXIsNext(!xIsNext)
   }
-
+//TESTE
   return(
     <>
     <div className="status">{status}</div>
